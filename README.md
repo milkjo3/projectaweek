@@ -12,7 +12,7 @@ Here, I’ll maintain a list of each week's project along with a brief descripti
 
 | Project | Project Name       | Description                                                     | Technologies Used   |
 |------|--------------------|-----------------------------------------------------------------|---------------------|
-| 1    | [Project 1: TBD](./week1-project-name) | TBD | TBD |
+| 1    | [Project 1: Pokemon YOLOv8 Detection Model](./week1-project-name) | Creating a YOLOv8 realtime computer vision model to detect Pokemon in Images. | Python, OpenCV, YOLOv8, PyTorch |
 | ...  | ...                | ...                                                             | ...                 |
 | 52   | [Final Project TBD](./week52-project-name) | TBD | TBD |
 
